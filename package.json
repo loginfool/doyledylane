@@ -1,0 +1,33 @@
+{
+  "name": "doyledylane",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "doyledylane.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loginfool/doyledylane"
+  },
+  "website": "https://github.com/loginfool/doyledylane.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "loginfool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loginfool/doyledylane/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/loginfool/doyledylane#readme",
+  "dependencies": {
+    "owennoviaf": "1.0.2"
+  }
+}
